@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Microplastic_Prediction/static/css/main.bad3ad9d.css",
+    "main.js": "/Microplastic_Prediction/static/js/main.8c6e5466.js",
+    "static/js/592.36ed4886.chunk.js": "/Microplastic_Prediction/static/js/592.36ed4886.chunk.js",
+    "static/media/turboramp.png": "/Microplastic_Prediction/static/media/turboramp.52ac876b35071e2b6b3c.png",
+    "static/media/RasterOverlaps.png": "/Microplastic_Prediction/static/media/RasterOverlaps.524392de4e5cdc00f719.png",
+    "index.html": "/Microplastic_Prediction/index.html",
+    "main.bad3ad9d.css.map": "/Microplastic_Prediction/static/css/main.bad3ad9d.css.map",
+    "main.8c6e5466.js.map": "/Microplastic_Prediction/static/js/main.8c6e5466.js.map",
+    "592.36ed4886.chunk.js.map": "/Microplastic_Prediction/static/js/592.36ed4886.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bad3ad9d.css",
+    "static/js/main.8c6e5466.js"
+  ]
+}
