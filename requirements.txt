@@ -79,7 +79,6 @@ pure-eval==0.2.2
 py4j==0.10.9.7
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
-PyAudio @ file:///C:/Users/arvin/pipwin/PyAudio-0.2.11-cp311-cp311-win_amd64.whl
 PyAutoGUI==0.9.53
 pycodestyle==2.10.0
 pycparser==2.21
