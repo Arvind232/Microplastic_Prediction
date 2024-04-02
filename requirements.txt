@@ -136,3 +136,4 @@ wcwidth            ==          0.2.6
 Werkzeug         ==            2.2.3
 wheel              ==          0.38.4
 wrapt                ==        1.14.1
+PyAudio         ==             0.2.11
